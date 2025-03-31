@@ -1,7 +1,7 @@
 package ec.edu.ups.poo.clases;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
-
+//moi haz bien el programa
 public class Familiar extends Persona {
     // atributos
     private String parentesco;
