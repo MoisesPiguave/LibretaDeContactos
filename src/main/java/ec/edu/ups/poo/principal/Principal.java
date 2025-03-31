@@ -43,7 +43,7 @@ public class Principal {
         }
 
         // Registro de familiares
-        System.out.println("¿Cuántos familiares desea ingresar ?");
+        System.out.println("Ingrese el numero de familiares");
 
         // creamos numero de familia para saber cuantos miembros de la familia desea ingresar
         int NumeroFamiliares = scanner.nextInt();
@@ -109,4 +109,5 @@ public class Principal {
 
         }
     }
+    //El leon es muy chevere
 }
