@@ -3,7 +3,7 @@ import ec.edu.ups.poo.clases.Familiar;// importamos la clase principal
 import ec.edu.ups.poo.clases.Persona;// importamos la clase persona
 import java.util.GregorianCalendar; // importar Gregorian calendar
 import java.util.Scanner;// importar el scanner para poder recibir la informacion
-
+//soy moises y me gusta el junior
 public class Principal {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in); // creamos el scanner
